@@ -17,9 +17,9 @@
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'NOME_DA_BASE_DE_DADOS',
-#         'USER': 'USUARIO_DA_BASE_DE_DADOS',
-#         'PASSWORD': 'SENHA_DA_BASE_DE_DADOS',
+#         'NAME': 'projeto_agenda',
+#         'USER': 'usuario_agenda',
+#         'PASSWORD': 'senha_usuario_agenda',
 #         'HOST': 'localhost',
 #         'PORT': '5432',
 #     }
